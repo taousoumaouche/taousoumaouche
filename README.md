@@ -1,4 +1,28 @@
-<h1 align="center">🐱‍💻 Hey, I'm Taous!</h1>
+<h1 align="center">
+  <a href="#" style="
+    display: inline-block;
+    overflow: hidden;
+    border-right: .15em solid orange;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: .15em;
+    animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;
+  ">
+    🐱‍💻 Hey, I'm Taous!
+  </a>
+</h1>
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
+</style>
+
 <p align="center">
   <img src="./profil.png" alt="cover" width="100%" height="200px>
 

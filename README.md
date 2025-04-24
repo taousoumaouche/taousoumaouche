@@ -1,4 +1,5 @@
-<h1 align="center">🐱‍💻 Hey, I'm Taous!</h1>
+<h1 align="center">🐱‍💻 <span style="color:#f39c12">Hey, I'm Taous!</span> </h1>
+
 
 <p align="center">
   <img src="./profil.png" alt="cover" width="100%" height="200px>

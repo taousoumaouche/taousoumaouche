@@ -1,15 +1,17 @@
-<h1 align="center">🐱‍💻 <span style="color:##7b1354">Hey, I'm Taous!</span> </h1>
-
+<h1 align="center">🐱‍💻 Hey, I'm Taous!</h1>
 
 <p align="center">
-  <img src="./profil.png" alt="cover" width="100%" height="200px>
+  <img src="./profil.png" alt="cover" width="100%" height="200px">
+</p>
 
 ---
+
+<p> 
+J’ai 21 ans et je suis passionnée par l’informatique depuis plusieurs années.  
+J’ai commencé par le <strong>développement web</strong> (HTML / CSS / JS), puis je me suis vite intéressée à d’autres domaines comme les <strong>bases de données</strong>, le <strong>développement backend avec Python</strong>, ainsi que la <strong>programmation système en C</strong>.  
+Je suis également curieuse du monde de la <strong>cybersécurité</strong> et de l’<strong>administration système et réseau</strong>, toujours motivée à apprendre et à progresser !
 </p>
-<p> J’ai 21 ans et je suis passionnée par l’informatique depuis plusieurs années.
-J’ai commencé par le développement web (HTML / CSS / JS), puis je me suis vite intéressée à d’autres domaines comme les bases de données, le développement backend avec Python, ainsi que la programmation système en C.
-Je suis également curieuse du monde de la cybersécurité et de l’administration système et réseau, toujours motivée à apprendre et à progresser !</p>
----
+
 
 ### À propos de moi :
 - 🎓 Étudiante en L2 Informatique

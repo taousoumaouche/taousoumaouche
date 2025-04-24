@@ -27,7 +27,7 @@
 ---
 
 ###  Quelques projets :
-- 🟢 [Enjoy Food - Plateforme de livraison de repas](https://github.com/taousoumaouche/enjoy_food)
+- 🟢 [Enjoy Food - Plateforme de livraison de repas](https://github.com/taousoumaouche/enjoy_python_sql)
 - 🟡 [Darkest Dungeon - Projet C](https://github.com/taousoumaouche/darkest_dungeon_c)
 - 🔵 [Pièges Python - Petits exercices de prog](https://github.com/taousoumaouche/piege_python)
 

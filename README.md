@@ -6,7 +6,9 @@
 
 
 </p>
-
+<p> J’ai 21 ans et je suis passionnée par l’informatique depuis plusieurs années.
+J’ai commencé par le développement web (HTML / CSS / JS), puis je me suis vite intéressée à d’autres domaines comme les bases de données, le développement backend avec Python, ainsi que la programmation système en C.
+Je suis également curieuse du monde de la cybersécurité et de l’administration système et réseau, toujours motivée à apprendre et à progresser !</p>
 ---
 
 ### À propos de moi :

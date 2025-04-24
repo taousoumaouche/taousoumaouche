@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taousoumaouche&show_icons=true&theme=tokyonight" alt="stats" style="margin-right: 40px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taousoumaouche&show_icons=true&theme=tokyonight" alt="stats" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taousoumaouche&layout=compact&theme=tokyonight" alt="top languages" width="400px" />
 </p>
 

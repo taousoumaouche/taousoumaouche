@@ -4,7 +4,7 @@
 <p align="center">
   <img src="./profil.png" alt="cover" width="100%" height="200px>
 
-
+---
 </p>
 <p> J’ai 21 ans et je suis passionnée par l’informatique depuis plusieurs années.
 J’ai commencé par le développement web (HTML / CSS / JS), puis je me suis vite intéressée à d’autres domaines comme les bases de données, le développement backend avec Python, ainsi que la programmation système en C.

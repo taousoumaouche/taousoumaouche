@@ -1,7 +1,4 @@
 <h1 align="center">🐱‍💻 Hey, I'm Taous!</h1>
-<p align="center">
-  <img src="./profil.png" width="200px" alt="Hacker">
-</p>
 
 <p align="center">
   <img src="./profil.png" alt="cover" width="100%" height="200px>

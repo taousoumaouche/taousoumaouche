@@ -1,4 +1,4 @@
-<h1 align="center">🐱‍💻 <span style="color:#f39c12">Hey, I'm Taous!</span> </h1>
+<h1 align="center">🐱‍💻 <span style="color:##7b1354">Hey, I'm Taous!</span> </h1>
 
 
 <p align="center">
